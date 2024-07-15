@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://hjanoti.io)
+[![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://hjanoti.io)
 
 <h1 align="center">Hi 👋, I'm Heera Singh janoti</h1>
 <h3 align="center">A passionate full Stack Developer from India</h3>
 <center>
-<img align= “right” alt= “coding” width=“400” src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="center" alt= “coding” src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
 </center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjanoti&label=Profile%20views&color=0e75b6&style=flat" alt="hjanoti" /> </p>
 
@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hjanoti9098@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/heera-singh-janoti-2ab7b6179" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="linkedin.com/in/heera-singh-janoti-2ab7b6179" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/heera-singh-janoti-2ab7b6179" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin.com/in/heera-singh-janoti-2ab7b6179" height="50" width="60" />Heera singh janoti</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
