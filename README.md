@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/heera-singh-janoti-2ab7b6179" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin.com/in/heera-singh-janoti-2ab7b6179" height="50" width="60" />Heera singh janoti</a>
+<a href="https://www.linkedin.com/in/heera-singh-janoti-2ab7b6179/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin.com/in/heera-singh-janoti-2ab7b6179/" height="50" width="60" />Heera singh janoti</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
