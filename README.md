@@ -1,25 +1,37 @@
-[![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://hjanoti.io)
+[![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)](https://hjanoti-portfolio.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Heera Singh Janoti</h1>
 <h3 align="center">A passionate full Stack Developer from India</h3>
+
 <center>
-<img align="center" alt= “coding” src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
+<img align="center" alt="coding" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
 </center>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hjanoti&label=Profile%20views&color=0e75b6&style=flat" alt="hjanoti" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hjanoti&label=Profile%20views&color=0e75b6&style=flat" alt="hjanoti" />
+</p>
 
-- 🌱 I’m currently expanding my knowledge in the **MERN stack** (MongoDB, Express.js, React, Node.js) to build dynamic and robust web applications.
-- 💬 Feel free to ask me about **web development**, **JavaScript**, or anything related to the **MERN stack**!
-- 🚀 I'm actively working on personal projects, including an **e-commerce website** and my latest project, **MY EDUHUB**, which offers various courses in programming and technology.
-- 📫 You can reach me at **[hjanoti9098@gmail.com](mailto:hjanoti9098@gmail.com)** for collaboration opportunities or just to connect!
-- 🔗 Check out my portfolio at [my portfolio](https://hjanoti.github.io/HeeraSinghJanoti-portfolio/) to see my work and skills!
+<br/>
+
+- 🌱 I’m currently expanding my knowledge in the **MERN stack** (MongoDB, Express.js, React, Node.js) to build dynamic and robust web applications.  
+- 💬 Feel free to ask me about **web development**, **JavaScript**, or anything related to the **MERN stack**!  
+- 🚀 I'm actively working on personal projects, including an **e-commerce website** and my latest project, **MY EDUHUB**, which offers various courses in programming and technology.  
+- 📫 Reach me anytime at **[hjanoti9098@gmail.com](mailto:hjanoti9098@gmail.com)**  
+- 🔗 Check out my updated portfolio: **https://hjanoti-portfolio.netlify.app/**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/heera-singh-janoti-2ab7b6179/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="linkedin.com/in/heera-singh-janoti-2ab7b6179/" height="50" width="60" />Heera singh janoti</a>
+  <a href="https://www.linkedin.com/in/heera-singh-janoti-2ab7b6179/" target="blank">
+    <img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="50" width="60" />
+    Heera Singh Janoti
+  </a>
 </p>
+
+---
 
 <h3 align="center">Technologies & Tools</h3>
 <p align="center">
@@ -34,13 +46,19 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
+---
 
+<!-- WORKING GitHub Cards -->
 
+<h3 align="center">GitHub Stats</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hjanoti&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hjanoti&layout=compact&theme=react" width="48%" />
+</p>
 
+<!-- WORKING Streak Stats -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjanoti&show_icons=true&locale=en&layout=compact" alt="hjanoti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjanoti&show_icons=true&locale=en" alt="hjanoti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjanoti&" alt="hjanoti" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hjanoti&theme=react" />
+</p>
